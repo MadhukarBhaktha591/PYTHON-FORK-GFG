@@ -11,3 +11,6 @@ def FizzBuzz(n):
         return n
 n = int(input("Enter the value for n : "))
 print(FizzBuzz(n))
+# 10 input neurons binary representation
+# 1 hl = 25 neurons
+# 4 output neurons
